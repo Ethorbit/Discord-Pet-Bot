@@ -17,5 +17,5 @@ The config.ini (in the same directory) has these settings under ['MAIN']
 ## Usage
 To pet, all you do is 
 * ?pet @Ethorbit
-* ?pet https://i.imgur.com/jLeVDXK.gif
+* ?pet https://i.imgur.com/84rr2Rb.jpg
 * ?pet >Uploaded Discord Image<
