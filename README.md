@@ -2,6 +2,8 @@
 Inspired by the Creators.TF Discord bot 'Pet Bot'
 It uses the same website (Created by Moonly Days) so the gifs it returns are the same.
 
+<img src="https://i.imgur.com/jLeVDXK.gif"/>
+
 ## Config
 The config.ini (in the same directory) has these settings under ['MAIN']
 * Token = Discord bot's token
