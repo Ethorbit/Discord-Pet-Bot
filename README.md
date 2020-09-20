@@ -13,3 +13,9 @@ The config.ini (in the same directory) has these settings under ['MAIN']
 * CommandPresets = ['?', '!', '/', '$'] - The symbols before the command that make the command valid
 * URL = https://pet.moonlydays.com/pet.php - The website to send user content to and get a response from 
 * URLParam = remote - The URL parameter to the URL to pass the user link to
+
+## Usage
+To pet, all you do is 
+* ?pet @Ethorbit
+* ?pet https://i.imgur.com/jLeVDXK.gif
+* ?pet >Uploaded Discord Image<
