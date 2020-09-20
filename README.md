@@ -2,6 +2,8 @@
 Inspired by the Creators.TF Discord bot 'Pet Bot'
 It uses the same website (Created by Moonly Days) so the gifs it returns are the same.
 
+This is a Discord bot that can turn images (mentioned user's avatars, embedded links and attached content) into .gifs of them being patted by a hand.
+
 <img src="https://i.imgur.com/jLeVDXK.gif"/>
 
 ## Config
